@@ -1,0 +1,13 @@
+{
+  "name": "Url Striper",
+  "description": "The extension extracts the real url from google redirect url. Made by Hawstein. Enjoy it!",
+  "version": "2.10.25",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "scripts": ["bg.js"]
+  },
+  "icons": {
+      "128": "icon-128.png"
+   },
+  "manifest_version": 2
+}
